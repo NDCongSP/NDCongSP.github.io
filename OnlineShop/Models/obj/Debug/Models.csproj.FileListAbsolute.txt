@@ -1,0 +1,11 @@
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\bin\Debug\Models.dll.config
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\bin\Debug\Models.dll
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\bin\Debug\Models.pdb
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\bin\Debug\EntityFramework.dll
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.dll
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\bin\Debug\EntityFramework.xml
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\bin\Debug\EntityFramework.SqlServer.xml
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\obj\Debug\Models.csprojAssemblyReference.cache
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\obj\Debug\Models.csproj.CopyComplete
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\obj\Debug\Models.dll
+F:\Cong Profile\Documents\Learn\MVC\OnlineShop\Models\obj\Debug\Models.pdb
